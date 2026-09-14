@@ -1,0 +1,39 @@
+{
+  "auth": {
+    "providers": {
+      "anonymous": false,
+      "emailPassword": true,
+      "googleSignIn": {
+        "oAuthBrandDisplayName": "StudyAI",
+        "supportEmail": "ademyacef@gmail.com"
+      }
+    }
+  },
+  "firestore": {
+    "rules": "firestore.rules"
+  },
+  "storage": {
+    "rules": "storage.rules"
+  },
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "studyai-app-9f3k2",
+          "appId": "1:332657220848:android:3f632c922c04e5e9bbb635",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/app/firebase_options.dart": {
+          "projectId": "studyai-app-9f3k2",
+          "configurations": {
+            "android": "1:332657220848:android:3f632c922c04e5e9bbb635",
+            "ios": "1:332657220848:ios:eca6b60101d158bbbbb635",
+            "web": "1:332657220848:web:c790160f07b819d8bbb635"
+          }
+        }
+      }
+    }
+  }
+}

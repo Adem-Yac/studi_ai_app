@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "332657220848",
+    "project_id": "studyai-app-9f3k2",
+    "storage_bucket": "studyai-app-9f3k2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332657220848:android:3f632c922c04e5e9bbb635",
+        "android_client_info": {
+          "package_name": "com.studyai.studyai_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332657220848-8aucofjmve29vb6m5i488d1e9vabkh56.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.studyai.studyai_app",
+            "certificate_hash": "c118093f369e0ed7e349b42219776fe72f6a26e0"
+          }
+        },
+        {
+          "client_id": "332657220848-47vi6r0fr7dighp8guc58t14gg1l2geb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABJ3pWOg32A3a7_vRgYYNIDlUYv1Qvi7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332657220848-47vi6r0fr7dighp8guc58t14gg1l2geb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "332657220848-4ct4faq0qe1gcfruosulrathv605i708.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.studyai.studyaiApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
